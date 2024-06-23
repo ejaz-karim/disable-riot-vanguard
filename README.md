@@ -1,0 +1,1 @@
+Disable and Enable Riot's Vanguard for Valorant/League of Legends
